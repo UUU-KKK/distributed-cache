@@ -3,7 +3,7 @@
 课程：分布式系统  
 姓名：【填写】　学号：【填写】　班级：【填写】  
 日期：2026 年 11 月  
-GitHub 仓库：https://github.com/【用户名】/【仓库名】
+GitHub 仓库：https://github.com/UUU-KKK/distributed-cache
 
 ## 摘要
 
